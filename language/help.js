@@ -400,24 +400,6 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ ${prefix}yuri
   ✎ ${prefix}zettai
 
-  *🧖 Asupan Menu*
-  ✎ ${prefix}hijaber
-  ✎ ${prefix}cecan
-  ✎ ${prefix}bocil
-  ✎ ${prefix}ukhty
-  ✎ ${prefix}gheayubi
-  ✎ ${prefix}rikagusriani
-  ✎ ${prefix}santuy
-
-  *👧 Cecan Menu*
-  ✎ ${prefix}china
-  ✎ ${prefix}vietnam
-  ✎ ${prefix}thailand
-  ✎ ${prefix}indonesia
-  ✎ ${prefix}korea
-  ✎ ${prefix}japan
-  ✎ ${prefix}malaysia
-
   *🕊️ Primbon Menu*
   ✎ ${prefix}nomorhoki
   ✎ ${prefix}artimimpi
